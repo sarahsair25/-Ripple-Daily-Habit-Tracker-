@@ -169,8 +169,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 Have feedback or questions? Find me on:
 
 - 💼 [LinkedIn](https://linkedin.com/sarahsair)
-- 🐦
-- 🌐 [Portfolio](https://your-portfolio.com)
+
 
 ---
 
