@@ -1,4 +1,4 @@
-# 🌊 Ripple — Daily Habit Tracker
+#  Ripple — Daily Habit Tracker
 
 > Small habits, big waves.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 **Ripple** is a personal habit tracking app built on the [CTO.ai](https://cto.ai) platform. Just like a ripple in water, small consistent actions spread outward — creating waves of lasting change in your life.
 
@@ -17,20 +17,20 @@ Whether you're building a morning routine, staying consistent at the gym, or cul
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ **Create Custom Habits** — Define habits with names, descriptions, and frequency goals
-- 📊 **Daily Check-ins** — Mark habits complete with a single tap
-- 🔥 **Streak Tracking** — Stay motivated by maintaining your daily streaks
-- 📈 **Progress Visualization** — View weekly and monthly completion stats at a glance
-- 🔔 **Reminders** — Get nudged at the right time to stay on track
-- 🗂️ **Habit Categories** — Organize habits by Health, Focus, Learning, and more
-- 📝 **Daily Reflection Notes** — Add optional notes to each check-in
-- 🌙 **Dark Mode Support** — Easy on the eyes, day or night
+-  **Create Custom Habits** — Define habits with names, descriptions, and frequency goals
+-  **Daily Check-ins** — Mark habits complete with a single tap
+-  **Streak Tracking** — Stay motivated by maintaining your daily streaks
+-  **Progress Visualization** — View weekly and monthly completion stats at a glance
+-  **Reminders** — Get nudged at the right time to stay on track
+-  **Habit Categories** — Organize habits by Health, Focus, Learning, and more
+-  **Daily Reflection Notes** — Add optional notes to each check-in
+- **Dark Mode Support** — Easy on the eyes, day or night
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 | Technology | Purpose |
 |------------|---------|
@@ -41,7 +41,7 @@ Whether you're building a morning routine, staying consistent at the gym, or cul
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -58,7 +58,7 @@ npm install -g @cto.ai/ops
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/ripple-habit-tracker.git
+git clone https://github.com/sarajsair25/ripple-habit-tracker.git
 cd ripple-habit-tracker
 ```
 
@@ -82,14 +82,14 @@ ops run .
 
 ---
 
-## 📖 Usage
+##  Usage
 
 Once the app is running, you'll be guided through an interactive CLI experience:
 
 ```
-🌅 Good morning! Ready to check in on your habits?
+ Good morning! Ready to check in on your habits?
 
-📋 Your habits for today:
+ Your habits for today:
   [ ] 💧 Drink 8 glasses of water
   [ ] 🏃 30-minute workout
   [ ] 📚 Read for 20 minutes
@@ -105,7 +105,7 @@ Once the app is running, you'll be guided through an interactive CLI experience:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ripple-habit-tracker/
@@ -123,13 +123,9 @@ ripple-habit-tracker/
 
 ---
 
-## 📊 Screenshots
-
-> _Coming soon — screenshots and demo GIFs will be added here._
-
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [ ] Web dashboard with charts
 - [ ] Habit sharing with friends
@@ -140,7 +136,7 @@ ripple-habit-tracker/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how to get started:
 
@@ -154,7 +150,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
