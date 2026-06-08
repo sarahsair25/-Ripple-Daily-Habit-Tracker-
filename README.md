@@ -1,4 +1,4 @@
-#  Ripple — Daily Habit Tracker
+#  Ripple - Daily Habit Tracker
 
 > Small habits, big waves.
 
