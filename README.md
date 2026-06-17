@@ -11,7 +11,7 @@
 
 ##  Overview
 
-**Ripple** is a personal habit tracking app built on the [CTO.ai](https://cto.ai) platform. Just like a ripple in water, small consistent actions spread outward — creating waves of lasting change in your life.
+**Ripple** is a personal habit tracking app built on the [CTO.ai](https://cto.ai) platform. Just like a ripple in water, small consistent actions spread outward , creating waves of lasting change in your life.
 
 Whether you're building a morning routine, staying consistent at the gym, or cultivating mindfulness, Ripple keeps you accountable every single day.
 
@@ -19,14 +19,14 @@ Whether you're building a morning routine, staying consistent at the gym, or cul
 
 ##  Features
 
--  **Create Custom Habits** — Define habits with names, descriptions, and frequency goals
--  **Daily Check-ins** — Mark habits complete with a single tap
--  **Streak Tracking** — Stay motivated by maintaining your daily streaks
--  **Progress Visualization** — View weekly and monthly completion stats at a glance
--  **Reminders** — Get nudged at the right time to stay on track
--  **Habit Categories** — Organize habits by Health, Focus, Learning, and more
--  **Daily Reflection Notes** — Add optional notes to each check-in
-- **Dark Mode Support** — Easy on the eyes, day or night
+-  **Create Custom Habits** :Define habits with names, descriptions, and frequency goals
+-  **Daily Check-ins** : Mark habits complete with a single tap
+-  **Streak Tracking** :Stay motivated by maintaining your daily streaks
+-  **Progress Visualization** :View weekly and monthly completion stats at a glance
+-  **Reminders** :Get nudged at the right time to stay on track
+-  **Habit Categories** : Organize habits by Health, Focus, Learning, and more
+-  **Daily Reflection Notes** : Add optional notes to each check-in
+- **Dark Mode Support** : Easy on the eyes, day or night
 
 ---
 
